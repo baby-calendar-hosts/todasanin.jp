@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b37ea9a0d4c033acfa6f1ac2cbe1077a",
+    "content-hash": "bcc00cde345e3ffad30676a2ec9bdbd8",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -295,10 +295,10 @@
         },
         {
             "name": "koodimonni-plugin-language/duplicate-post-ja",
-            "version": "3.2.4",
+            "version": "3.2.5",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/duplicate-post/3.2.4/ja.zip",
+                "url": "https://downloads.wordpress.org/translation/plugin/duplicate-post/3.2.5/ja.zip",
                 "reference": "master"
             },
             "type": "wordpress-language"
@@ -362,10 +362,10 @@
         },
         {
             "name": "koodimonni-plugin-language/wp-fastest-cache-ja",
-            "version": "0.9.0.7",
+            "version": "0.9.0.8",
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/0.9.0.7/ja.zip"
+                "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/0.9.0.8/ja.zip"
             },
             "type": "wordpress-language"
         },
@@ -800,22 +800,22 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v3.6.6",
+            "version": "v3.6.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "4669484ccbc38fe7c4e0c50456778f2010566aad"
+                "reference": "2065beda6cbe75e2603686907b2e45f6f3a5ad82"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/4669484ccbc38fe7c4e0c50456778f2010566aad",
-                "reference": "4669484ccbc38fe7c4e0c50456778f2010566aad",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/2065beda6cbe75e2603686907b2e45f6f3a5ad82",
+                "reference": "2065beda6cbe75e2603686907b2e45f6f3a5ad82",
                 "shasum": ""
             },
             "require": {
                 "php": "^5.4 || ^7.0 || ^8.0",
                 "phpoption/phpoption": "^1.5.2",
-                "symfony/polyfill-ctype": "^1.16"
+                "symfony/polyfill-ctype": "^1.17"
             },
             "require-dev": {
                 "ext-filter": "*",
@@ -869,7 +869,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-06-02T14:08:54+00:00"
+            "time": "2020-07-14T19:04:52+00:00"
         },
         {
             "name": "wpackagist-plugin/adminimize",
@@ -891,15 +891,15 @@
         },
         {
             "name": "wpackagist-plugin/amazon-s3-and-cloudfront",
-            "version": "2.3.2",
+            "version": "2.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/amazon-s3-and-cloudfront/",
-                "reference": "tags/2.3.2"
+                "reference": "tags/2.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.2.3.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.2.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
