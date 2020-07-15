@@ -232,13 +232,13 @@
     "wpackagist-plugin/loginizer": "*",
     "wpackagist-plugin/mw-wp-form": "*",
     "wpackagist-plugin/my-calendar": "*",
+    "wpackagist-plugin/redirection": "*",
     "wpackagist-plugin/tablepress": "*",
     "wpackagist-plugin/wordpress-importer": "*",
     "wpackagist-plugin/wp-dashboard-notes": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
-    "wpackagist-plugin/wp-fastest-cache": "*",
-    "wpackagist-plugin/redirection": "*"
+    "wpackagist-plugin/wp-fastest-cache": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.4",
